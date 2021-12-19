@@ -1,10 +1,11 @@
 import React from "react"
+import "../stylesheets/footer.css"
 
 function Footer() {
     return (
-        <div className="Footer">
-
-        </div>
+        <footer>
+            © Baja 2021
+        </footer>
     )
 }
 
